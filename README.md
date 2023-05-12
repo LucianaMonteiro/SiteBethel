@@ -2,9 +2,7 @@
 
 ## Commit Inicial
 
-Desenvolvimento de um site em **HTML** e **CSS** para a Igreja Bethel.
-
-
+Desenvolvimento de site em **HTML** e **CSS** para a Igreja Bethel.
 
 
 
